@@ -1,0 +1,175 @@
+body {
+  background-color: #F4F9F9;
+  margin:  0;
+  font-family: 'Arvo', serif;
+  text-align: center;
+}
+
+.whats-app{
+  display: inline-block;
+  position: fixed;
+  left: 10px;
+
+}
+.wp-img{
+  width: 10%;
+  position: relative;
+  right: 230px;
+  top: 300px;
+}
+
+.im-mohan {
+  font-family: 'Petemoss', cursive;
+  font-size: 6.25rem;
+  margin: 50px auto 0 ;
+  color: #2E4C6D;
+  line-height: 1;
+
+}
+
+.civil-engg{
+  font-family: 'Maven Pro', sans-serif;
+  margin: 20px auto 0 auto;
+  font-size: 1.8rem;
+  color: #142F43;
+}
+
+.First-section {
+  background-color: #D1E8E4;
+  padding: 100px;
+  height: 293.78%;
+  margin: 0;
+  width: 87%;
+}
+.third-section{
+  background-color: #6886C5;
+  padding: 50px 0 20px;
+}
+
+.mountain {
+  height: 300px;
+  opacity: 60%;
+}
+.mona-photo{
+  height: 400px;
+  margin: 0;
+}
+.tekla{
+  height: 250pX;
+}
+.ps{
+  height: 250px;
+}
+
+.new-d{
+  height:100px;
+
+}
+
+h2{
+color: #009DAE;
+font-weight: normal;
+font-size: 40px;
+}
+.skills{
+  width: 100%;
+}
+
+.skill-row{
+  width: 50%;
+margin: 150px auto 150px auto;
+text-align: left;
+line-height: 1.5;
+}
+hr{
+  margin: 0;
+}
+a{
+  color: #BEAEE2;
+  margin: 60px 10px;
+  font-family: 'Maven Pro', sans-serif;
+  text-decoration: none;
+  position: relative;
+  top: 5px;
+}
+a:hover{
+  color: #F9F9F9;
+}
+.Sketch-up{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.lumi-on{
+  width: 20%;
+  float: right;
+  margin-left: 20px;
+}
+
+.tekla{
+  width: 20%;
+  height: 100px;
+  float: left;
+  margin-right: 20px;
+}
+.ps{
+  width:25%;
+  height: 150px;
+  float: right;
+  margin-left: 20px;
+}
+.profile{
+  height: 450px;
+}
+.hello{
+  position: relative;
+  bottom: 100px;
+}
+.p2{
+  position: relative;
+  bottom: 120px;
+}
+hr{
+  border: dotted #BADFDB 6PX;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto;
+
+}
+.contact-me{
+  padding: 50px;
+}
+.copy-right{
+  color: #BADFDB;
+  font-size: 0.75rem;
+  padding: 20px 0;
+  width: 100%;
+}
+.btn {
+  background: #acb8bf;
+  background-image: -webkit-linear-gradient(top, #acb8bf, #1a8ed6);
+  background-image: -moz-linear-gradient(top, #acb8bf, #1a8ed6);
+  background-image: -ms-linear-gradient(top, #acb8bf, #1a8ed6);
+  background-image: -o-linear-gradient(top, #acb8bf, #1a8ed6);
+  background-image: linear-gradient(to bottom, #acb8bf, #1a8ed6);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  text-shadow: 1px 1px 3px #666666;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 22px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #43ace8;
+  background-image: -webkit-linear-gradient(top, #43ace8, #2d74a3);
+  background-image: -moz-linear-gradient(top, #43ace8, #2d74a3);
+  background-image: -ms-linear-gradient(top, #43ace8, #2d74a3);
+  background-image: -o-linear-gradient(top, #43ace8, #2d74a3);
+  background-image: linear-gradient(to bottom, #43ace8, #2d74a3);
+  text-decoration: none;
+}
